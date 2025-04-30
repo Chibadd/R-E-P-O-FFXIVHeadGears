@@ -7,6 +7,9 @@
     使用时需安装 nickklmao-MenuLib 前置模组。
     nickklmao-MenuLib mod is required as a prerequisite.
 
+    注意：未打汉化补丁时物品名会出现方块，这是因为游戏不支持中文，并非模组bug。
+    Note: When the Chinese localization patch is not applied, item names will appear as block characters. This occurs because the game does not support Chinese text display natively, and is not a bug caused by the mod.
+
     mod内容/mod content
     1.AngelicCirclet-天使光环
     2.BlackMage-黑魔
