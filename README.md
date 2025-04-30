@@ -26,3 +26,8 @@
     13.Scholar-学者
     14.SprigganCap-魔石精兜帽
     15.YCarbuncle-黄宝石兽
+    16.ValentioneHat-恋人帽
+    17.RoseRibbonedHat-玫瑰花恋人帽
+    18.LovelyMoogleCap-莫古莫古恋心帽
+    19.KingSlimeCrown-史莱姆王帽子
+    20.BunnyChiefCrown-兔女郎折耳
