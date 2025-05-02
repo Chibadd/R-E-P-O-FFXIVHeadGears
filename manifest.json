@@ -1,7 +1,7 @@
 ﻿{
     "name": "FFXIVHeadGears",
-    "version_number": "1.0.0",
-    "website_url": "https://github.com/Chibadd/R-E-P-O-FFXIVHeadGears",
+    "version_number": "1.0.2",
+    "website_url": "https://github.com/Chibadd/R-E-P-O-FFXIVHeadGears.git",
     "description": "Based on Final Fantasy XIV",
     "dependencies": [
         "nickklmao-MenuLib-2.3.0",
